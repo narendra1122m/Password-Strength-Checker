@@ -8,9 +8,6 @@ A simple Python GUI project built using Tkinter that checks password strength ba
 - At least one number
 - At least one special character
 
-## 📸 Screenshot
-![screenshot](screenshot.png)
-
 ## ✅ How to Run
 
 ```bash
